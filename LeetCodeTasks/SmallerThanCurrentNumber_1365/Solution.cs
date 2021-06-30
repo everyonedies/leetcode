@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SmallerThanCurrentNumber_1365
 {
+    /// <summary>
+    /// https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+    /// </summary>
     public class Solution
     {
         public int[] SmallerNumbersThanCurrent(int[] nums)
